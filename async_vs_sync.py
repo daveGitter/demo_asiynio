@@ -1,3 +1,7 @@
+""" Compare performance between running jobs sync and async 
+
+Ref: https://ruarfff.com/posts/understanding-python-async
+"""
 import asyncio
 import datetime
 import time
